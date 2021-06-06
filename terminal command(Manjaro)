@@ -1,0 +1,3 @@
+# sudo pacman -S [pkg-name]  --> install apps from aur
+# sudo pacman -R [pkg_name]  --> remove an apps
+# sudo pacman -Ss [keyword]  --> search for apps
